@@ -152,14 +152,6 @@ Welcome to the **Python Automation Toolkit** repository! This collection of Pyth
 
 ---
 
-## ⚙️ **Requirements**
-To get started, ensure you have Python installed. Install the necessary dependencies with:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 **Usage**
 Run any script from the command line using:
 ```bash
