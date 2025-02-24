@@ -152,13 +152,7 @@ Welcome to the **Python Automation Toolkit** repository! This collection of Pyth
 
 ---
 
-## 🚀 **Usage**
-Run any script from the command line using:
-```bash
-python script_name.py
-```
 
----
 
 ## 🤝 **Contributing**
 Contributions are welcome! Feel free to submit pull requests or open issues for improvements.
